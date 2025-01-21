@@ -6,10 +6,10 @@ This project analyzes inventory control strategies and demand data to optimize c
 
 1. Data Cleaning & Preprocessing:
 
-- Addressed missing values, outliers, and sporadic demand patterns.
+  - Addressed missing values, outliers, and sporadic demand patterns.
 2. Data Aggregation:
 
-Evaluated the need for aggregation (weekly, monthly, etc.) and optimized based on demand trends.
+  - Evaluated the need for aggregation (weekly, monthly, etc.) and optimized based on demand trends.
 Autocorrelation Analysis:
 
 Computed and analyzed autocorrelation functions (ACF) for demand time series using Excel and Wessa.net.
