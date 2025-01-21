@@ -4,10 +4,10 @@ Hi, I am Abhisheke Chakrabortty. The Projects I have worked on are below
 # [Demand Planning and Inventory Management Project](https://github.com/Abhi-c52/Abhi-s-Analytics-Repository/tree/525d0c38999c7f99f689ccf03446158712a025ae/Excel%20Project-%20Demand%20Planning%20and%20Inventory%20Management)
 This project analyzes inventory control strategies and demand data to optimize costs and improve efficiency. Key highlights include:
 
-Data Cleaning & Preprocessing:
+1. Data Cleaning & Preprocessing:
 
-Addressed missing values, outliers, and sporadic demand patterns.
-Data Aggregation:
+- Addressed missing values, outliers, and sporadic demand patterns.
+2. Data Aggregation:
 
 Evaluated the need for aggregation (weekly, monthly, etc.) and optimized based on demand trends.
 Autocorrelation Analysis:
