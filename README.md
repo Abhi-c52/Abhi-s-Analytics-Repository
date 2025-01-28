@@ -45,3 +45,34 @@ Documentation:
 - Combined ABC-XYZ classifications summarized in a table.
 4. Excel functions used: OFFSET, MATCH, INDEX, SUMPRODUCT, VLOOKUP/XLOOKUP.
 
+# SQL and PowerBI Projects
+# [Sales Management Project](https://github.com/Abhi-c52/Abhi-s-Analytics-Repository/tree/9992259cd3c88d9707f479116eb73d7b013d2fb9/Sales%20Report%20Creation%20with%20SQL%20and%20PowerBI)
+
+### Sales Management Project
+
+#### Business Request & User Stories  
+The project aimed to deliver a Power BI dashboard for sales managers to track sales performance. User stories included:
+1. **Sales Manager**: Dashboard overview of internet sales (daily updates)
+2. **Sales Rep**: Detailed sales per customer and product (filterable data)
+3. **Sales Manager**: Sales vs. budget comparison (KPIs and graphs)
+
+#### Data Cleansing & Transformation (SQL) :
+**SQL clauses, functions, operators, and keywords used:** SELECT, AS, LEFT JOIN, ISNULL, WHERE, ORDER BY, CASE, LEFT (string function), JOIN, Filtering with comparison operators, String concatenation.
+
+**Key data tables were cleansed using SQL:**
+- **DIM_Calendar**: Extracted date-related data.
+- **DIM_Customers**: Cleaned customer info and joined with geography data.
+- **DIM_Products**: Processed product data with subcategories and categories.
+- **FACT_InternetSales**: Filtered sales data for the last 2 years.
+
+---
+
+#### Data Model  in PowerBI
+Data was imported into Power BI, connecting **FACT_InternetSales** to **DIM** tables for analysis across customers, products, and time.
+
+---
+#### Sales Management Dashboard  
+The final Power BI dashboard included:
+- **Overview Page**: Key sales metrics.
+- **Customer/Product Insights**: Filterable sales data.
+- **Sales vs. Budget**: Sales performance compared to budget.
