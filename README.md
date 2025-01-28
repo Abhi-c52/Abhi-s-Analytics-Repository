@@ -29,7 +29,7 @@ This project analyzes inventory control strategies and demand data to optimize c
 Documentation:
 
 7. Detailed results, calculations, and charts provided in both Excel and PDF formats.
-
+----
 # [ABC and XYZ Analysis](https://github.com/Abhi-c52/Abhi-s-Analytics-Repository/tree/8cb76c4e1c118372f3bc4d46e491add8a5bc1638/Excel-%20ABC%20and%20XYZ%20Analysis)
 
 1. ABC Analysis:
@@ -65,12 +65,9 @@ The project aimed to deliver a Power BI dashboard for sales managers to track sa
 - **DIM_Products**: Processed product data with subcategories and categories.
 - **FACT_InternetSales**: Filtered sales data for the last 2 years.
 
----
-
 #### Data Model  in PowerBI
 Data was imported into Power BI, connecting **FACT_InternetSales** to **DIM** tables for analysis across customers, products, and time.
 
----
 #### Sales Management Dashboard  
 The final Power BI dashboard included:
 - **Overview Page**: Key sales metrics.
