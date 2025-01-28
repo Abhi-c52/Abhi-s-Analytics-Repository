@@ -47,7 +47,7 @@ Documentation:
 
 # SQL and PowerBI Projects
 # [Sales Management Project](https://github.com/Abhi-c52/Abhi-s-Analytics-Repository/tree/9992259cd3c88d9707f479116eb73d7b013d2fb9/Sales%20Report%20Creation%20with%20SQL%20and%20PowerBI)
-
+![Image](https://github.com/user-attachments/assets/be39557c-895b-43a8-a92d-c9c8e3b463b7)
 ### Sales Management Project
 
 #### Business Request & User Stories  
